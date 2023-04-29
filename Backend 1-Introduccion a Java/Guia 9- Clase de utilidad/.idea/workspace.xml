@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="797a3008-100b-489e-968b-4d1c49120d17" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../EjercicioIntegrador/src/EstudianteService/EstudianteService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EjercicioIntegrador/src/entidad/Estudiante.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Guia 8- Clase de Servicio/Ejercicios/Ej-001/src/entidad/CuentaBancaria.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Guia 8- Clase de Servicio/Ejercicios/Ej-001/src/servicio/CuentaBancariaServicio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Guia 8- Clase de Servicio/Ejercicios/Ej-002/src/entidad/Cafetera.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Guia 8- Clase de Servicio/Ejercicios/Ej-002/src/servicio/CafeteraService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Guia 8- Clase de Servicio/Ejercicios/Ej-003/src/entidad/Persona.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Guia 8- Clase de Servicio/Ejercicios/Ej-003/src/servicio/PersonaService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ej-002/src/entidad/ParDeNumeros.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ej-002/src/servicio/ParDeNumerosServicio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ej001/src/entidad/Cadena.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ej001/src/servicio/CadenaServicio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IntegradorJava/src/Practica.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Guia 7-POO/POOEj03_Extra/src/Juego.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Guia 7-POO/POOEj03_Extra/src/Juego.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Backend 1-Introducción a Java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2P4IffssxmbwIcJVGUpqPfcJjG3" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/Emilia/Downloads/Documents/EGG/Curso de programacion Full Stack-EGG-Backend 1-Introduccion a Java/Backend 1-Introduccion a Java/Guia 9- Clase de utilidad/Ej-003"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="797a3008-100b-489e-968b-4d1c49120d17" name="Changes" comment="" />
+      <created>1682710031908</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1682710031908</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
